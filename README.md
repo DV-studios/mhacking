@@ -1,5 +1,4 @@
 # FiveM-Scripts
-My Public FiveM Scripts
 
 ## mhacking
 The hacking minigame is inspired by the Hacking Minigame of Alpha Protocol, notoriously known for being horrible to play. You need to find two constant hex code blocks in a fast enough changing table of hexcode. It is purely a visual minigame. In the screen below you will see the left block hovering directly above a solution -- need to move it one down and press space to be accepted as a correct solution.
